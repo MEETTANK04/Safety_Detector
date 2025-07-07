@@ -1,0 +1,2 @@
+Mask Detected
+Mask Not Detected
